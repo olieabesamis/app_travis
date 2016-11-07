@@ -3,7 +3,7 @@
   <groupId>com.pw.olie</groupId>
   <artifactId>app_helloWorld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-	 <packaging>war</packaging>
+	 <packaging>war</packaging> forced error
 	 <!-- sample comment to trigger auto build and deploy!!!-->  
 	 <!-- sample comment to trigger auto build and deploy travis!!!-->
 	 
